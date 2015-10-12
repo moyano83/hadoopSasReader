@@ -37,3 +37,7 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
+
+#complete folders
+target/
+build/
